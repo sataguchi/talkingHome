@@ -1,4 +1,5 @@
 # talkingHome
+# comment add 20180916
 Raspberry pi + Google home Talkng
 
 Sample programs
